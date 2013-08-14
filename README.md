@@ -1,7 +1,7 @@
 CI-base-with-admin-dash
 =======================
 
-A simple user registration system build with the Codeigniter PHP Framework.
+A simple user registration system built with the Codeigniter PHP Framework.
 
 SQL
 =======================
